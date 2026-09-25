@@ -11,7 +11,7 @@ This is a repository for collecting TTF and HWT font files. 这是一个收集TT
 
 ## 字体收集清单
 
-​~~古典刻本宋（繁体字库残缺，且在v2及后续版本中彻底删除~~
+~~古典刻本宋（繁体字库残缺，且在v2及后续版本中彻底删除~~
 
 ### 基本正常字体
 ​古籍复刻宋体
