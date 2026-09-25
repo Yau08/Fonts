@@ -13,7 +13,7 @@ This is a repository for collecting TTF and HWT font files. 这是一个收集TT
 
 ​方正中雅宋_GBK
 
-​古典刻本宋
+​古典刻本宋 （繁体字库残缺）
 
 ​古籍复刻宋体
 
